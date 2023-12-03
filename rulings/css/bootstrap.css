@@ -1,4 +1,4 @@
-/*!
+﻿/*!
 * Created by Kroplet (https://www.kroplet.com) 
 * The easiest way to create Bootstrap 4 themes. 
 */
@@ -5251,11 +5251,3 @@ pre[class*="language-"].line-numbers > code {
   display: block;
   padding-right: 0.8em;
   text-align: right; }
-
-
-
-.textjorge {
-    display: inline-block;
-    vertical-align: middle;
-    width: calc(100% - 100px);    
-}
